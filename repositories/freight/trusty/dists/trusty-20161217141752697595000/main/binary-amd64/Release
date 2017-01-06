@@ -1,0 +1,5 @@
+Archive: trusty
+Component: main
+Origin: osquery-builder
+Label: osquery-builder
+Architecture: amd64

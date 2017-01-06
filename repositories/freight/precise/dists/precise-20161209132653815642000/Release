@@ -1,0 +1,19 @@
+Origin: osquery-builder
+Label: osquery-builder
+Suite: precise
+Codename: precise
+Date: Fri, 09 Dec 2016 13:26:57 -0800
+Components: main 
+Architectures: amd64
+MD5Sum:
+ 6635f14ca1427f9d2146a1550fcc8b45 11459 main/binary-amd64/Packages
+ 23d62ea7168f2f567e4e5d9620c4d7a3 2391 main/binary-amd64/Packages.gz
+ fbd7ccf8cd7b479849514aa5c8d3a757 100 main/binary-amd64/Release
+SHA1:
+ f646be648468fad85d516560df8f33d90d10c3a6 11459 main/binary-amd64/Packages
+ 09af091c08ff746e46a14ab6fca35c3acb9637c1 2391 main/binary-amd64/Packages.gz
+ cd1c9026c57e3465a973f6dfd6e1de1f3cf5a725 100 main/binary-amd64/Release
+SHA256:
+ 6bb4fe717e2f6cbb360e2f34b91daf7c17cdabaa4a038dc2cb576c5416d96b2e 11459 main/binary-amd64/Packages
+ 67242cedf0a07fcec8e2c66642c5b4d310400fe5d8f3f4f2c09a66df1d227923 2391 main/binary-amd64/Packages.gz
+ 8ffb0b70ad7d20af24fc14b16301594c692bdea6a2dd34eafd1bd8536d52fa08 100 main/binary-amd64/Release

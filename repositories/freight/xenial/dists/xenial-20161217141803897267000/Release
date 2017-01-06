@@ -1,0 +1,19 @@
+Origin: osquery-builder
+Label: osquery-builder
+Suite: xenial
+Codename: xenial
+Date: Sat, 17 Dec 2016 14:18:06 -0800
+Components: main 
+Architectures: amd64
+MD5Sum:
+ ffba8766062240c7650edddc6bbdd023 8526 main/binary-amd64/Packages
+ e2d4013891e6246036cb28b639c8c31e 1925 main/binary-amd64/Packages.gz
+ b3d2bc54cc96176201df683fb532808b 99 main/binary-amd64/Release
+SHA1:
+ ce61f7661b3f6d400c9305ba1d632ebc7cc90a1a 8526 main/binary-amd64/Packages
+ 78c18e5fafd952063f5ddc290ce83fe8530e7736 1925 main/binary-amd64/Packages.gz
+ 3194d45639b76782a5c6fb4912dfcae834664af2 99 main/binary-amd64/Release
+SHA256:
+ 1a9c66dd995f6d3abc78e101ebf037b106eb99db63c1d3cf221f8277e9df53d6 8526 main/binary-amd64/Packages
+ b227c384e4b914445e3310a533dea47f1ff4d4f234a84cbe259172d81fa45078 1925 main/binary-amd64/Packages.gz
+ a35393651ff7c5e57305e82da5fbadfd9c3283aa58b811b5f8e2028a593a9ade 99 main/binary-amd64/Release

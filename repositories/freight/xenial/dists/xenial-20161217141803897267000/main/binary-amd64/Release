@@ -1,0 +1,5 @@
+Archive: xenial
+Component: main
+Origin: osquery-builder
+Label: osquery-builder
+Architecture: amd64

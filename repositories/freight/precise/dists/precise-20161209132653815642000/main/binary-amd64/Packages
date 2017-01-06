@@ -1,0 +1,342 @@
+Package: osquery
+Version: 1.7.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 17246
+Depends: zlib1g, libbz2-1.0, libreadline6, libgcrypt11, libc6 (>=2.15), libapt-pkg4.12, libstdc++6, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.0-1.ubuntu12_amd64.deb
+MD5sum: 97cccc2a75ea5f05b522f3b368ebf547
+SHA1: 024ca976bc033fb6de528acf690e7156444752b2
+SHA256: 73a2a62dbd3a3cf16185f86819c264d9184d504ab785a7882b2d5cfcf93d48c3
+Size: 6146402
+
+Package: osquery
+Version: 1.7.1-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 17397
+Depends: zlib1g, libbz2-1.0, libreadline6, libgcrypt11, libc6 (>=2.15), libapt-pkg4.12, libstdc++6, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.1-1.ubuntu12_amd64.deb
+MD5sum: ba7350ae281af0b3aac7aa21ce5764ec
+SHA1: 3dd32526bfb11cad89754502115372f5ab4bdfb6
+SHA256: 26798b5849f8ffcd62f017a45a3018ed90f83e165968a5ee0d83d79d5b4bfc42
+Size: 6248326
+
+Package: osquery
+Version: 1.7.2-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 18531
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libapt-pkg4.12, libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.2-1.ubuntu12_amd64.deb
+MD5sum: 51d6f7f772b697c885db851c37a35303
+SHA1: 068e85d63ca385a58ad8525ac5442755176855aa
+SHA256: bb62f6e4a6fd02acfd7bca4a5a37f166ef8d7bf8696d89a40dc88a31e07a0f8e
+Size: 7004446
+
+Package: osquery
+Version: 1.7.3-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 18533
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libapt-pkg4.12, libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.3-1.ubuntu12_amd64.deb
+MD5sum: a135fc1a1fbd47663d8c05f256e230d7
+SHA1: b6493da710af7768d708545ae237325f3eb1aeed
+SHA256: 4e37d9176f9fef5421ad87407e2fff14928b8d9788c0c5899936bfca5f7789be
+Size: 7006616
+
+Package: osquery
+Version: 1.7.4-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 22031
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libapt-pkg4.12, libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.4-1.ubuntu12_amd64.deb
+MD5sum: a4633d2cb44c795ab39dac76ca9f1d4f
+SHA1: d147e0469c0780e07b5a3c8105fb19ff168f3788
+SHA256: 054cbab434bff4b5363b88900ab3ef855d7eb40e79c8f9bdd9b3676b19d4470c
+Size: 7956568
+
+Package: osquery
+Version: 1.7.5-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23123
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.5-1.ubuntu12_amd64.deb
+MD5sum: 523811dd0841084d9d28d2525c711817
+SHA1: 8523a5f261ded5bfc7e00bf9d41bdc500114f041
+SHA256: 139215df2446f9150b28808e8a10bb64e401bb3c5210bcc96d95435a09e29714
+Size: 8329958
+
+Package: osquery
+Version: 1.7.6-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23123
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.6-1.ubuntu12_amd64.deb
+MD5sum: 2de747e42c00e44fe408f375c91c0389
+SHA1: b38a0ff0af317b79af67e33d20143b2961c83d1c
+SHA256: 44186703b2d2e49b1384ceb93f956d386f3c9583e77ed54978c508a9f884e450
+Size: 8327818
+
+Package: osquery
+Version: 1.7.7-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23131
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.7.7-1.ubuntu12_amd64.deb
+MD5sum: 8ab1dae654219487d333e89735a22fb1
+SHA1: 68b967e954b9d3fcbfd3c7b0fbc56d93db2e5848
+SHA256: ba2c7c121993873e92c0a9d2c10033a61da5d79237a1c3abe9c98ab8ca1bcfad
+Size: 8332142
+
+Package: osquery
+Version: 1.8.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23180
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.8.0-1.ubuntu12_amd64.deb
+MD5sum: 933cebf8d00dac62f977c780fad718c8
+SHA1: 7aeee6be4ecd797c6785e748b17ba203067aec74
+SHA256: ef14749b1a21a231722ee61c34c08f2efa70076c89d83e6b17ea0c2904496486
+Size: 8344782
+
+Package: osquery
+Version: 1.8.1-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23148
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.8.1-1.ubuntu12_amd64.deb
+MD5sum: 7d2685b57129b67250c30e18cc08e965
+SHA1: c99a13f9b25286e24941acf7f8847ccadd225999
+SHA256: de00b920393a59a4f344325464ab038fb27a5c5e1eb09bb5074ef99c8afb0a82
+Size: 8376912
+
+Package: osquery
+Version: 1.8.2-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23180
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.8.2-1.ubuntu12_amd64.deb
+MD5sum: 5eeba7af7478cb819915e40149090d3f
+SHA1: a276a95773c8c4a6a214e3993d6892b81cf393c6
+SHA256: 0e50aee63f6778fcf7b9f0019366d1ba8f00ee6df38fd7820d2f97c2be7722c1
+Size: 8386632
+
+Package: osquery
+Version: 2.0.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 36086
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.0.0-1.ubuntu12_amd64.deb
+MD5sum: 9f716bea42ec21cec3001a236c730c92
+SHA1: bc2fc0f8f1227ec47e7887383a72cefb3f7f5383
+SHA256: b3176815d26ef24207615db2e5e807397469fd4829320488ae0242dcd01e4196
+Size: 13785062
+
+Package: osquery
+Version: 2.1.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 35757
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.1.0-1.ubuntu12_amd64.deb
+MD5sum: b4974b67efa390f275282847e7af700f
+SHA1: 4b884e9c97bc4b10ec8e60f9ed8d39ef7810ca6c
+SHA256: 0cae7c9827e21411d49a1c2808b3174c1d73bb61ca5e62df5c3d2e5e4502409c
+Size: 13651652
+
+Package: osquery
+Version: 2.1.1-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 35761
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.1.1-1.ubuntu12_amd64.deb
+MD5sum: 5511388c02753329c128da48e95222e3
+SHA1: 588577ce73ea31ad8ad172ab9bc00e64dcf3408e
+SHA256: 2ba0ee5963aaab9e470b2a7834917252c8277b8174e70259c7ca5cf6a10ebc05
+Size: 13651304
+
+Package: osquery
+Version: 1.8.2-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 23180
+Depends: zlib1g, libbz2-1.0, libreadline6, libc6 (>=2.13), libstdc++6, libgcrypt11, libudev0
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_1.8.2-1.ubuntu12_amd64.deb
+MD5sum: 3656f881f89ea38cce0b239ab2e3daf7
+SHA1: 11d819afb18480937763e38fc6fcf7a8277aed0c
+SHA256: 693ed5f503b4691d8e22fb9b26f5a2355860d1a0702219f9ebdaaec8e35a1c10
+Size: 8386632
+
+Package: osquery
+Version: 2.0.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 36086
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.0.0-1.ubuntu12_amd64.deb
+MD5sum: 6a48155d9f35fceff305a0caa7228459
+SHA1: f193a37e1e2bdedce373783a3f8df7c68da3d03e
+SHA256: c0103a68f80c933db40b0f80269bc58862d562eadcaaf9f934a6a3672a0ac08d
+Size: 13785080
+
+Package: osquery
+Version: 2.1.0-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 35757
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.1.0-1.ubuntu12_amd64.deb
+MD5sum: ab19bb6c25c321e6f18f2393af9db07f
+SHA1: 257dab23d4b3e2a622300c9f99a55302d65e812d
+SHA256: 4d2d357900cbd526471c39e5ef48c967c624a131445ca12d1f631e17a6c4481c
+Size: 13651652
+
+Package: osquery
+Version: 2.1.1-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 35761
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.1.1-1.ubuntu12_amd64.deb
+MD5sum: 5ee8aef49cbb1527ec0ff3622f1a9fb7
+SHA1: de08334ee45d985c268c909960e0e51df11147a5
+SHA256: b9972c6edb85d88612644aa06b54e56c682597e5fc34a408922c35aca348ea6f
+Size: 13651304
+
+Package: osquery
+Version: 2.1.2-1.ubuntu12
+License: BSD
+Vendor: Facebook
+Architecture: amd64
+Maintainer: osquery@osquery.io
+Installed-Size: 35761
+Depends: libc6 (>=2.13), zlib1g
+Section: default
+Priority: extra
+Homepage: https://osquery.io
+Description: osquery is an operating system instrumentation toolchain.
+Filename: pool/precise/main/o/osquery/osquery_2.1.2-1.ubuntu12_amd64.deb
+MD5sum: 197443bda90296521f0898471e762d61
+SHA1: d90d41176c2ed03eee78486fe9cf3db90963b714
+SHA256: 14746772cee3a2c4bee68e283d059682f78080a4ce64f88b87d052ce2dda115c
+Size: 13651184
+

@@ -1,0 +1,19 @@
+Origin: osquery-builder
+Label: osquery-builder
+Suite: trusty
+Codename: trusty
+Date: Sat, 17 Dec 2016 14:17:57 -0800
+Components: main 
+Architectures: amd64
+MD5Sum:
+ 30c22b5cb92d42a81edb1bbcd6a26b9d 14468 main/binary-amd64/Packages
+ 8539072882a356a3e0a3b8458520a575 2960 main/binary-amd64/Packages.gz
+ 118b39df938a6ba87fe9c38739e9dc93 99 main/binary-amd64/Release
+SHA1:
+ e799c07ae7be2f7e6dfc6d635911f61014a909e7 14468 main/binary-amd64/Packages
+ 79d144fb26fa41f5c64cc9fee539a6585fce0f2d 2960 main/binary-amd64/Packages.gz
+ cb7cacfe8ca5f6b888085f4e8004e53cfd0bb13f 99 main/binary-amd64/Release
+SHA256:
+ 5b87f935d62acb25122de58924e356f0aa3484d6710d936b5a3232ac293e12d8 14468 main/binary-amd64/Packages
+ e79040ef1761ff6fb4ed2ed5f8f882ee4aaee00dd42b5e57c6996a229f7b0108 2960 main/binary-amd64/Packages.gz
+ 0808bc8ab52f49be33d5f604b14aa66ca34bec1252b7d377c65ba89590dd56e8 99 main/binary-amd64/Release
